@@ -1,8 +1,9 @@
-# AI-genererad site om Biodling
+# Experiment - AI-genererad https://gunnarnordqvist.github.io/Biodling/](webbplats) om Bin och biodling
 
 Detta är ett experiment för att se hur långt jag lyckades få Gemeni 2.5 Flash. 
+Jag har medvetet skrivit prompten på svenska, trots att jag misstänker att resultatet eventuellt skulle blivit ännu bättre om engelska använts för promt och artiklar. 
 Jag har startat prompten nedan och efter det bara sagt "godkänt" efter respektive iteration.
-på grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ./github/scripts/create.py .
+På grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ./github/scripts/create.py .
 Jag lyckades inte göra så workflowet i sig kunde skaåa ett annat workflow pch därför placerade bad jag få scriptet placerat på wn alternativ plsts och sedan ändrade jag sökvägen manuellt. 
 
 Följande prompt användes:
@@ -25,8 +26,9 @@ Redaktörerna får inte använda sig av script utan måste skapa texterna en art
 Kvalitetsansvarig skall kontrollera resultatet innan skapandet av python-script för upp skapande av siten.
 
 Mål
-Teamet ska ha skapat en site på svenska med 50 artiklar om bin med minst 1500 tecken  i vardera. Varje artikel måste innehålla unikt material och får inte innehålla mer än 5 % återupprepning med övriga artiklar. En term lista med samtliga termer som används skall också finnas.
-
+Teamet ska ha skapat en site på svenska med 50 artiklar om bin med minst 1500 tecken  i vardera. 
+Varje artikel måste innehålla unikt material och får inte innehålla mer än 5 % återupprepning med övriga artiklar. 
+En termlista med samtliga termer som används skall också finnas.
 Helt verkligt skriven (inga placeholders).
 Möter 1750 tecken ± 250.
 
@@ -36,7 +38,7 @@ Mkdocs
 GitHub action utan externa script
 Koden checkas in mot main.
 
-Det är alltså bara ett python-script som ska skapas och den ska innehålla allt som behövs för att skapa alla md-filer och Yml-filen för GitHub action workflow.
+Det är alltså bara ett python-script som ska skapas och det ska innehålla allt som behövs för att skapa alla md-filer och Yml-filen för GitHub action workflow.
 
 Arbetet ska ske iterativt i sekvens och presentera fem artiklar som första batch och öka med 5 per batch om resultatet av föregående iteration var bra.
 Jag är projektägaren och det är jag som bestämmer om nästa iteration får startas. Jag vill ha en demo av resultatet efter varje iteration. 
