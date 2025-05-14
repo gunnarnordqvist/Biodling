@@ -839,7 +839,7 @@ def create_site_structure(articles_dict, glossary_content, mkdocs_yml, github_ac
     """Creates the necessary directories and files for the MkDocs site."""
     print("Creating site directories...")
     os.makedirs("docs", exist_ok=True)
-    os.makedirs(".github/workflows", exist_ok=True)
+    os.makedirs(".github/workflow", exist_ok=True)
 
     print("Creating index.md...")
     with open("docs/index.md", "w", encoding="utf-8") as f:
