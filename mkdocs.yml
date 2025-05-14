@@ -1,48 +1,47 @@
-
 site_name: Världen av Bin
 nav:
     - Hem: index.md
     - Artiklar:
-        - Biets Livscykel: biets_livscykel.md
-        - Drottningbiet: drottningbiet.md
-        - Arbetsbinas Många Uppgifter: arbetsbin.md
-        - Drönarnas Roll i Bikupan: dronare.md
-        - Biets Kommunikation: vaggdansen.md
-        - Hot mot Bin: hot_mot_bin.md
-        - Olika Bi-arter i Sverige: olika_biarter_sverige.md
-        - Biodling som Hobby: biodling_hobby.md
-        - Bins Roll i Ekosystemet: bins_roll_ekosystemet.md
-        - Bin i Staden: bin_i_staden.md
-        - Honungsskörd och Hantering: honungsskord_hantering.md
-        - Bin och Blommor: Ett Symbiotiskt Förhållande: bin_blommor_symbios.md
-        - Bisamhällets Organisation och Superorganismen: bisamhallets_organisation.md
-        - Olika Typer av Honung och Deras Egenskaper: olika_typer_honung.md
-        - Bin i Historien, Myter och Kulturen: bin_historia_kultur.md
-        - Bin och Väder: Hur Påverkas Binas Aktivitet?: bin_vader_aktivitet.md
-        - Drottningens Livsfarliga Parningsflykt: drottningens_parningsflykt.md
-        - Binas Naturliga Fiender: binas_naturliga_fiender.md
-        - Binas Sinnen: Syn, Lukt och Smak: binas_sinnen.md
-        - Propolis: Binas Kåda och Dess Användning: propolis_binas_kada.md
-        - Binas Anatomi: Vingar, Ben och Kroppsdelar: binas_anatomi.md
-        - Biodlingens Historia Genom Tiderna: biodlingens_historia.md
-        - Olika Typer av Vildbibon: olika_typer_vildbibon.md
-        - Andra Parasiter och Sjukdomar hos Bin: andra_parasiter_sjukdomar.md
-        - Hur Bin Ser Världen: Färgseende och UV-ljus: hur_bin_ser_varlden.md
-        - Bins Behov av Vatten: bins_behov_vatten.md
-        - Pollen och Bibröd: Binas Proteinrika Föda: pollen_bibrod.md
-        - Honungsdagg: En Ovanlig Honungskälla: honungsdagg.md
-        - Processen att Skapa Bivax: processen_skapa_bivax.md
-        - Binas Immunförsvar och Hälsa: binas_immunforsvar_halsa.md
-        - Lagar och Regler Kring Biodling i Sverige: lagar_regler_biodling.md
-        - Hur Bin Orienterar Sig: Sol, Magnetfält och Landmärken: hur_bin_orienterar_sig.md
-        - Runddansen och Vaggdansen: Olika Budskap: runddansen_vaggdansen.md
-        - Bin som Pollinatörer av Fruktträd och Bärodlingar: bin_pollinatorer_frukt_bar.md
-        - Ekologisk Biodling: Principer och Praxis: ekologisk_biodling.md
-        - Binas Övervintring: Klotet och Foder: binas_overvintring.md
-        - Vinterfoder och Vårstimulering i Bikupan: vinterfoder_varstimulering.md
-        - Grunderna i Drottningodling: grunderna_drottningodling.md
-        - Svärmkontroll och Hur Man Hanterar Svärmar: svarmkontroll_hantering.md
-        - Binas Avgörande Roll för Vilda Växters Fortplantning: binas_avgorande_roll_vilda_vaxter.md
+        - "Biets Livscykel": biets_livscykel.md
+        - "Drottningbiet": drottningbiet.md
+        - "Arbetsbinas Många Uppgifter": arbetsbin.md
+        - "Drönarnas Roll i Bikupan": dronare.md
+        - "Biets Kommunikation": vaggdansen.md
+        - "Hot mot Bin": hot_mot_bin.md
+        - "Olika Bi-arter i Sverige": olika_biarter_sverige.md
+        - "Biodling som Hobby": biodling_hobby.md
+        - "Bins Roll i Ekosystemet": bins_roll_ekosystemet.md
+        - "Bin i Staden": bin_i_staden.md
+        - "Honungsskörd och Hantering": honungsskord_hantering.md
+        - "Bin och Blommor: Ett Symbiotiskt Förhållande": bin_blommor_symbios.md
+        - "Bisamhällets Organisation och Superorganismen": bisamhallets_organisation.md
+        - "Olika Typer av Honung och Deras Egenskaper": olika_typer_honung.md
+        - "Bin i Historien, Myter och Kulturen": bin_historia_kultur.md
+        - "Bin och Väder: Hur Påverkas Binas Aktivitet?": bin_vader_aktivitet.md
+        - "Drottningens Livsfarliga Parningsflykt": drottningens_parningsflykt.md
+        - "Binas Naturliga Fiender": binas_naturliga_fiender.md
+        - "Binas Sinnen: Syn, Lukt och Smak": binas_sinnen.md
+        - "Propolis: Binas Kåda och Dess Användning": propolis_binas_kada.md
+        - "Binas Anatomi: Vingar, Ben och Kroppsdelar": binas_anatomi.md
+        - "Biodlingens Historia Genom Tiderna": biodlingens_historia.md
+        - "Olika Typer av Vildbibon": olika_typer_vildbibon.md
+        - "Andra Parasiter och Sjukdomar hos Bin": andra_parasiter_sjukdomar.md
+        - "Hur Bin Ser Världen: Färgseende och UV-ljus": hur_bin_ser_varlden.md
+        - "Bins Behov av Vatten": bins_behov_vatten.md
+        - "Pollen och Bibröd: Binas Proteinrika Föda": pollen_bibrod.md
+        - "Honungsdagg: En Ovanlig Honungskälla": honungsdagg.md
+        - "Processen att Skapa Bivax": processen_skapa_bivax.md
+        - "Binas Immunförsvar och Hälsa": binas_immunforsvar_halsa.md
+        - "Lagar och Regler Kring Biodling i Sverige": lagar_regler_biodling.md
+        - "Hur Bin Orienterar Sig: Sol, Magnetfält och Landmärken": hur_bin_orienterar_sig.md
+        - "Runddansen och Vaggdansen: Olika Budskap": runddansen_vaggdansen.md
+        - "Bin som Pollinatörer av Fruktträd och Bärodlingar": bin_pollinatorer_frukt_bar.md
+        - "Ekologisk Biodling: Principer och Praxis": ekologisk_biodling.md
+        - "Binas Övervintring: Klotet och Foder": binas_overvintring.md
+        - "Vinterfoder och Vårstimulering i Bikupan": vinterfoder_varstimulering.md
+        - "Grunderna i Drottningodling": grunderna_drottningodling.md
+        - "Svärmkontroll och Hur Man Hanterar Svärmar": svarmkontroll_hantering.md
+        - "Binas Avgörande Roll för Vilda Växters Fortplantning": binas_avgorande_roll_vilda_vaxter.md
     - Ordlista: ordlista.md
 theme:
     name: material
