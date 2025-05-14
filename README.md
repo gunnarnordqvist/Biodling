@@ -5,7 +5,7 @@ Jag har medvetet skrivit prompten på svenska, trots att jag misstänker att res
 Jag har startat prompten nedan och efter det bara sagt "godkänt" efter respektive iteration.
 
 Jag gjorde inställningarna i GitHub manuellt, det är möjligt att det skulle gått att få AI att automatisera det också, men jag tyckte inte att det var fokus för mitt arbete.
-På grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ./github/scripts/create.py .
+På grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ```./github/scripts/create.py ```.
 Jag lyckades inte göra så workflowet i sig kunde skaåa ett annat workflow pch därför placerade bad jag få scriptet placerat på wn alternativ plsts och sedan ändrade jag sökvägen manuellt. 
 
 Följande prompt användes:
@@ -53,4 +53,5 @@ Yml-filen måste innehålla allt som behövs för att den ska kunna köras i sig
 ```
 
 Detta ger en fingervisning om vad denna modellen kan göra och hur snabbt utvecklingen inom AI går. Jag har gjort motsvara test med GPT 3.5, GPT-4o, o4-mini och o4-mini-high, men ingen av dessa gav i närheten lika bra resultat. Gemini 2.0 gav ett liknande resultat från början men tappade snabbt bort sig.
+
 /Gunnar Nordqvist 
