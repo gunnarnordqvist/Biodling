@@ -1,0 +1,12 @@
+
+# Olika Typer av Vildbibon
+
+Medan honungsbin lever i stora, permanenta samhällen i bikupor, uppvisar de hundratals arter av vildbin i Sverige en förbluffande variation i hur och var de bygger sina bon. De flesta vildbin är solitärbin, vilket innebär att varje hona bygger och försörjer sitt eget bo. Bara humlor, som också räknas till vildbina, lever i samhällen, men dessa är vanligtvis små och ettåriga.
+
+Solitärbin väljer boplatser utifrån artens specifika preferenser. En mycket stor andel av solitärbina är marklevande. De gräver gångar och bon i sandig eller lerig jord, ofta på soliga, ogärna vegetationstäckta platser som sandtag, slänter eller stigar. Varje hona gräver sin egen gång, skapar sidoceller längs gången, samlar pollen och nektar som föda i cellerna, lägger ett ägg i varje cell och förseglar den. Exempel på marklevande solitärbin är sandbin, jordbin och en del vägbin.
+
+En annan stor grupp solitärbin är hålrumslevande. De utnyttjar befintliga håligheter för sina bon. Detta kan vara borrade gångar i dött trä (t.ex. staketstolpar, stockar, eller "bi-hotell"), ihåliga växtstjälkar (som rörflen eller bambu), sprickor i murar eller berg, eller till och med gamla skalbaggegångar i trä. Murarbin och tapetserarbin är vanliga exempel på hålrumslevande solitärbin. Murarbin använder lera eller sand blandat med saliv för att bygga och försegla sina celler, medan tapetserarbin klipper ut cirkulära bitar av blad för att fodra sina bon, därav namnet.
+
+Humlor (vildbin i släktet Bombus) bygger sina bon på andra sätt. Humlesamhällen är ettåriga och grundas på våren av en övervintrad drottning. Boplatserna kan variera men är ofta underjordiska, till exempel i övergivna musbon, i komposter, under stenar eller i täta grästuvor. Vissa humlearter, som t.ex. trädgårdshumlan, kan också bygga bon ovan jord i fågelholkar eller isoleringsmaterial. Humlebon är mindre strukturerade än honungsbinas bon; de bygger vaxkrukor för att lagra nektar och pollen och celler för ägg och larver, men utan de regelbundna, vertikala vaxkakorna.
+
+Att skapa och bevara en mångfald av boplatser är avgörande för att stödja vildbi-populationerna. Att lämna obrukad, sandig mark, behålla dött trä och ihåliga stjälkar, samt sätta upp bi-hotell kan göra stor skillnad för dessa viktiga pollinatörer. Variationen i vildbibon är ett tydligt tecken på den ekologiska mångfald som finns bland bin utöver det välkända honungsbiet.

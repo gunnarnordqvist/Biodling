@@ -1,0 +1,14 @@
+
+# Grunderna i Drottningodling
+
+Drottningen är bisamhällets hjärta, och hennes kvalitet är avgörande för samhällets styrka, produktivitet och motståndskraft. Att kunna odla egna drottningar (drottningodling) är en central färdighet för seriösa biodlare, oavsett om målet är att ersätta gamla eller dåliga drottningar, öka antalet bisamhällen, eller avla på önskvärda egenskaper som mildhet, svärmtröghet och motståndskraft mot sjukdomar.
+
+Drottningodling utnyttjar bisamhällets naturliga förmåga att föda upp en ny drottning när den gamla drottningen försvinner, dör eller är dålig. Processen bygger på att man presenterar mycket unga larver (1-2 dagar gamla) för arbetsbin som saknar en drottning eller vars drottning har spärrats bort. Dessa arbetsbin, som då blir "nöddrottningbin", kan omvandla larverna till drottningar genom att mata dem rikligt och uteslutande med bidrottninggelé under hela larvstadiet. De bygger också speciella, större drottningceller runt larverna.
+
+Den vanligaste metoden för drottningodling involverar att man tar en ram med unga larver från ett bisamhälle med goda egenskaper (moder samhälle). Dessa larver överförs sedan försiktigt till speciella odlingsramar eller "ympas" över till plastkoppar som sätts in i ett samhälle som förberetts för att föda upp drottningar (odlingssamhälle). Odlingssamhället är antingen drottninglöst eller har sin drottning bortspärrad, vilket gör att arbetsbina är motiverade att genast börja dra upp nya drottningar från de presenterade larverna.
+
+Efter cirka 10-11 dagar är drottningcellerna färdiga att kläckas. De kan då flyttas till små parningskupor (parningssamhällen eller nucs) som består av en liten mängd bin och foder. Varje parningskupa får en färdig drottningcell. Några dagar senare kläcks den unga drottningen i parningskupan. Hon kommer sedan att göra en eller flera parningsflygningar till drönarsamlingsplatser för att para sig med drönare. Efter framgångsrik parning återvänder hon till parningskupan och börjar lägga ägg.
+
+När den unga, parades drottningen har börjat lägga ägg i parningskupan, är hon redo att introduceras i ett produktionssamhälle. Detta kan vara ett samhälle som har blivit drottninglöst (antingen naturligt eller av biodlaren), eller ett samhälle där den gamla drottningen avsiktligt byts ut. Introduktionen måste göras försiktigt, ofta genom att placera den nya drottningen i en liten bur med några arbetsbin från det mottagande samhället. Detta ger bina tid att vänja sig vid hennes feromon innan hon släpps ut, vilket minskar risken att hon dödas.
+
+Drottningodling är en tidsödande och kunskapskrävande process som kräver noggrann planering och hantering. Men möjligheten att producera egna, högkvalitativa drottningar är en ovärderlig tillgång för varje seriös biodlare som vill bygga starka och friska bisamhällen.

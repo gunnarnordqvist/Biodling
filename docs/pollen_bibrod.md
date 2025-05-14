@@ -1,0 +1,12 @@
+
+# Pollen och Bibröd: Binas Proteinrika Föda
+
+Nektar ger bin energi i form av kolhydrater, men för att växa, utvecklas och upprätthålla samhällets hälsa behöver bin också en rik källa till protein, vitaminer, mineraler och fetter. Denna källa är pollen. Pollen, som samlas från blommande växter, är avgörande för larvernas tillväxt, unga bins utveckling av körtlar (som producerar bidrottninggelé och vax), och för drottningens äggläggning.
+
+Fältbin samlar pollen medvetet när de besöker blommor för att samla nektar. När biet besöker en blomma fastnar pollenkorn på dess håriga kropp. Med hjälp av sina ben borstar biet av pollen och packar det i de specialiserade "pollenkorgarna" (corbiculae) som finns på utsidan av bakbenen hos honungsbin och humlor. Innan biet packar pollen i korgen, fuktar det det ofta med en liten mängd nektar eller honung från sin honungsblåsa, vilket hjälper till att forma pollen till en kompakt boll. Dessa pollenbollar, som ofta har lysande färger beroende på vilken blomma de kommer ifrån (gul, orange, brun, lila etc.), transporteras sedan tillbaka till kupan.
+
+Väl i kupan levererar fältbiet pollenbollarna till arbetsbin som lagrar dem i tomma celler runt yngelområdet. När pollen har lagrats i cellerna, bearbetas det av andra arbetsbin. De packar pollen hårt i cellerna och blandar det med en liten mängd honung och enzymer. Denna jäsningsprocess, som liknar fermentering, omvandlar pollen till "bibröd" (bee bread). Bibröd är mer näringsrikt, lättare att smälta och längre hållbart än obehandlat pollen. Jäsningsprocessen bryter ner de hårda cellväggarna i pollenkornen och frigör näringsämnen, samtidigt som den producerar mjölksyra som bevarar bibrödet.
+
+Bibröd är den primära proteinkällan för larverna och de unga arbetsbin som producerar larvföda och bidrottninggelé. Drottningen behöver också bibröd för att kunna producera ett stort antal ägg. Utan tillräckligt med pollen och bibröd kan bisamhällets tillväxt stanna av, och binas hälsa kan försämras. Variationen av pollen från olika blommor är viktig för att säkerställa att bin får en balanserad kost med alla nödvändiga aminosyror, vitaminer och mineraler.
+
+Att säkerställa att bin har tillgång till en mångfald av pollenkällor under hela säsongen är en kritisk aspekt av bi-hälsa och bevarande. Genom att plantera eller bevara blommande växter som producerar rikligt med pollen bidrar vi direkt till bisamhällenas styrka och deras förmåga att utföra sin avgörande roll som pollinatörer.

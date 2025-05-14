@@ -1,0 +1,12 @@
+
+# Olika Bi-arter i Sverige
+
+När man talar om bin tänker många först på honungsbiet (Apis mellifera), det sociala bi som hålls av biodlare för produktion av honung och pollinering av grödor. Men Sverige hyser en mycket större och mer diversifierad grupp av bin än så. Utöver honungsbiet finns det hundratals olika arter av vildbin, inklusive de välkända humlorna och en stor variation av solitärbin. Dessa vildbin är otroligt viktiga pollinatörer och spelar en avgörande roll i våra naturliga ekosystem och för vilda växters fortplantning.
+
+Honungsbiet, även om det är det mest kända, är inte ursprungligt i Sverige utan introducerades av människan. De lever i stora, permanenta samhällen, oftast i konstgjorda bikupor, och deras sociala struktur är högt utvecklad med en drottning, tusentals arbetsbin och drönare. De är generalister när det gäller föda och pollinerar en mängd olika blommor, men de har också specifika krav på sina levnadsmiljöer och är beroende av biodlares skötsel för att överleva, särskilt under vintern.
+
+Humlor (Bombus spp.) är kanske de mest älskade av våra vildbin. De är större, luddigare och ofta mer tåliga mot kyla än honungsbin. Detta gör dem till effektiva pollinatörer även under kyligare väder och tidigt på våren eller sent på hösten när honungsbina är mindre aktiva. Humlor lever i mindre samhällen än honungsbin, oftast under ettåriga cykler där bara den befruktade drottningen övervintrar och grundar ett nytt bo på våren. Det finns många olika humlearter i Sverige, varav vissa är specialiserade på att pollinera specifika växter. Tyvärr är flera humlearter hotade.
+
+Solitärbin utgör den absolut största gruppen av bin i Sverige, med flera hundra olika arter. Till skillnad från honungsbin och humlor lever solitärbin inte i samhällen. Varje hona är fertil och bygger sitt eget bo, där hon samlar föda och lägger ägg. Bona kan byggas på en mängd olika platser: i håligheter i trä, i marken, i ihåliga stjälkar eller under stenar. Solitärbin är ofta mer specialiserade än honungsbin och humlor, vilket innebär att vissa arter enbart pollinerar en specifik typ av blomma. Denna specialisering gör dem särskilt sårbara om deras specifika värdväxt försvinner. Exempel på solitärbin är murarbin, sandbin och tapetserarbin.
+
+Skyddet av vildbin är avgörande för att bevara vår biologiska mångfald. De bidrar till pollineringen av vilda växter, vilket i sin tur stödjer hela ekosystem. Genom att skapa blommande miljöer, undvika pesticider och erbjuda boplatser kan vi hjälpa dessa viktiga pollinatörer att överleva och frodas.
