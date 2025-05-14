@@ -9,7 +9,7 @@ Jag valde att bara använda mobiltelefonen för att genomför detta, för att in
 Jag gjorde inställningarna i GitHub manuellt, det är möjligt att det skulle gått att få AI att automatisera det också, men jag tyckte inte att det var fokus för mitt arbete.
 På grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ```./github/scripts/create.py ```.
 Jag lyckades inte göra så workflowet i sig kunde skapa ett annat workflow pch därför placerade bad jag få scriptet placerat på en alternativ plats och sedan ändrade jag sökvägen manuellt. 
-Det blev rtt ps små praingfel och då lät jag GitHub Copilot åtgärda dessa genom att klistra in länken till körningen av det misslyckade workflowet.
+Det blev ett par små praingfel och bad jag GitHub Copilot ```åtgärda problemet och visa uppdaterad fil``` och klistra in länken till körningen av det misslyckade workflowet och sedan använda föreslagen kodändring.
 
 ## Prompt
 Följande prompt användes:
