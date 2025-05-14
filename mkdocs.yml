@@ -1,4 +1,3 @@
-
 site_name: Världen av Bin
 nav:
     - Hem: index.md
@@ -14,11 +13,11 @@ nav:
         - Bins Roll i Ekosystemet: bins_roll_ekosystemet.md
         - Bin i Staden: bin_i_staden.md
         - Honungsskörd och Hantering: honungsskord_hantering.md
-        - Bin och Blommor: Ett Symbiotiskt Förhållande: bin_blommor_symbios.md
+        - "Bin och Blommor: Ett Symbiotiskt Förhållande": bin_blommor_symbios.md
         - Bisamhällets Organisation och Superorganismen: bisamhallets_organisation.md
         - Olika Typer av Honung och Deras Egenskaper: olika_typer_honung.md
         - Bin i Historien, Myter och Kulturen: bin_historia_kultur.md
-        - Bin och Väder: Hur Påverkas Binas Aktivitet?: bin_vader_aktivitet.md
+        - "Bin och Väder: Hur Påverkas Binas Aktivitet?": bin_vader_aktivitet.md
         - Drottningens Livsfarliga Parningsflykt: drottningens_parningsflykt.md
         - Binas Naturliga Fiender: binas_naturliga_fiender.md
         - Binas Sinnen: Syn, Lukt och Smak: binas_sinnen.md
@@ -27,14 +26,14 @@ nav:
         - Biodlingens Historia Genom Tiderna: biodlingens_historia.md
         - Olika Typer av Vildbibon: olika_typer_vildbibon.md
         - Andra Parasiter och Sjukdomar hos Bin: andra_parasiter_sjukdomar.md
-        - Hur Bin Ser Världen: Färgseende och UV-ljus: hur_bin_ser_varlden.md
+        - "Hur Bin Ser Världen: Färgseende och UV-ljus": hur_bin_ser_varlden.md
         - Bins Behov av Vatten: bins_behov_vatten.md
         - Pollen och Bibröd: Binas Proteinrika Föda: pollen_bibrod.md
         - Honungsdagg: En Ovanlig Honungskälla: honungsdagg.md
         - Processen att Skapa Bivax: processen_skapa_bivax.md
         - Binas Immunförsvar och Hälsa: binas_immunforsvar_halsa.md
         - Lagar och Regler Kring Biodling i Sverige: lagar_regler_biodling.md
-        - Hur Bin Orienterar Sig: Sol, Magnetfält och Landmärken: hur_bin_orienterar_sig.md
+        - "Hur Bin Orienterar Sig: Sol, Magnetfält och Landmärken": hur_bin_orienterar_sig.md
         - Runddansen och Vaggdansen: Olika Budskap: runddansen_vaggdansen.md
         - Bin som Pollinatörer av Fruktträd och Bärodlingar: bin_pollinatorer_frukt_bar.md
         - Ekologisk Biodling: Principer och Praxis: ekologisk_biodling.md
