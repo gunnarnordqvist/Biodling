@@ -1,9 +1,6 @@
 name: Run Create Script and Commit Results
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
