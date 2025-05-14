@@ -1,0 +1,43 @@
+name: Run Create Script and Commit Results
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Steg 1: Checka ut koden från main
+    - name: Check out the repository
+      uses: actions/checkout@v3
+
+    # Steg 2: Sätt upp Python-miljön
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'  # Ange rätt version om specifik krävs
+
+    # Steg 3: Installera krav (om en requirements.txt finns)
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    # Steg 4: Kör Python-skriptet
+    - name: Run Python script
+      run: python .github/scripts/create.py
+
+    # Steg 5: Lägg till och commit-a ändringar
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "GitHub Action Bot"
+        git config user.email "bot@example.com"
+        git add .
+        git commit -m "Updated results from create.py [skip ci]" || echo "Nothing to commit"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
