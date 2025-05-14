@@ -863,7 +863,7 @@ def create_site_structure(articles_dict, glossary_content, mkdocs_yml, github_ac
     print(" - Created mkdocs.yml")
 
     print("Creating GitHub Actions workflow file...")
-    workflow_path = os.path.join(".github", "workflows", "mkdocs.yml")
+    workflow_path = os.path.join(".github", "workflow", "mkdocs.yml")
     with open(workflow_path, "w", encoding="utf-8") as f:
         f.write(github_actions_yml)
     print(f" - Created {workflow_path}")
