@@ -58,5 +58,6 @@ Yml-filen måste innehålla allt som behövs för att den ska kunna köras i sig
 
 ### Slutsats
 Detta ger en fingervisning om vad denna modellen kan göra och hur snabbt utvecklingen inom AI går. Jag har gjort motsvara test med GPT 3.5, GPT-4o, o4-mini och o4-mini-high, men ingen av dessa gav i närheten lika bra resultat. Gemini 2.0 gav ett liknande resultat från början men tappade snabbt bort sig.
+Resultatet visar tydligt att nivån på vad allmänt tillgängliga LLM:er kan göra ökar snabbt och är redan åå en sådan nivå att det utan djup kännedom om området som hanteras är det väldigt svårt att veta om det som står är sant eller ej. 
 
 /Gunnar Nordqvist 
