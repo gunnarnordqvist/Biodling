@@ -1,6 +1,6 @@
 # Experiment - AI-genererad [webbplats](https://gunnarnordqvist.github.io/Biodling/) om Bin och biodling
 
-Detta är ett experiment för att se hur långt jag lyckades få Gemeni 2.5 Flash. 
+Detta är ett experiment för att se hur långt jag lyckades få Gemini 2.5 Flash. 
 Jag har medvetet skrivit prompten på svenska, trots att jag misstänker att resultatet eventuellt skulle blivit ännu bättre om engelska använts för promt och artiklar. 
 Jag har startat prompten nedan och efter det bara sagt "godkänt" efter respektive iteration.
 Jag valde att bara använda mobiltelefonen för att genomför detta, för att inte frestas att göra för mycket själv.
