@@ -6,7 +6,7 @@ Jag har startat prompten nedan och efter det bara sagt "godkänt" efter respekti
 
 Jag gjorde inställningarna i GitHub manuellt, det är möjligt att det skulle gått att få AI att automatisera det också, men jag tyckte inte att det var fokus för mitt arbete.
 På grund av begränsningar i gränssnittet har jag kopierat svaren och kopierat in scriptet ```./github/scripts/create.py ```.
-Jag lyckades inte göra så workflowet i sig kunde skaåa ett annat workflow pch därför placerade bad jag få scriptet placerat på wn alternativ plsts och sedan ändrade jag sökvägen manuellt. 
+Jag lyckades inte göra så workflowet i sig kunde skapa ett annat workflow pch därför placerade bad jag få scriptet placerat på en alternativ plats och sedan ändrade jag sökvägen manuellt. 
 
 Följande prompt användes:
 
